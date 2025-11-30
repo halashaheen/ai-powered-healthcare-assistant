@@ -16,6 +16,7 @@ transformers = "*"
 langchain-core = "*"
 protobuf = "*"
 sentencepiece = "*"
+streamlit = "*"
 
 [dev-packages]
 

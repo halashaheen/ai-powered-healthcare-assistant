@@ -22,6 +22,9 @@ Run python files:
 pipenv run python memory_for_llm.py
 pipenv run python medbot.py
 
+Run App:
+pipenv run streamlit run  medbot_ui.py
+
 
 
 
